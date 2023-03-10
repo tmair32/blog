@@ -6,7 +6,7 @@ datePublished: Fri Mar 10 2023 00:58:17 GMT+0000 (Coordinated Universal Time)
 cuid: clf1tx149000209mj4jfeglt0
 slug: playing-with-digits
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678409545736/ce94f56c-8809-44da-903e-955ca6275af6.webp
-tags: codewars, 6kyu
+tags: algorithms, javascript, typescript, codewars, 6kyu
 
 ---
 
