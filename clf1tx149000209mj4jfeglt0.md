@@ -5,7 +5,7 @@ seoDescription: "Here is a solution to the 6kyu-level Codewars problem "Playing 
 datePublished: Fri Mar 10 2023 00:58:17 GMT+0000 (Coordinated Universal Time)
 cuid: clf1tx149000209mj4jfeglt0
 slug: playing-with-digits
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678410648116/18e5a611-5c9e-44cf-b0ef-5286e2428a9a.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678410799749/ca73e654-1d21-4c44-a944-7521d28a9c82.webp
 tags: algorithms, javascript, typescript, codewars, 6kyu
 
 ---
