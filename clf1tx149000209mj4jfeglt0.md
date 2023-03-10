@@ -4,7 +4,7 @@ seoTitle: "Solving Codewars' Playing with Digits Problem"
 seoDescription: "Here is a solution to the 6kyu-level Codewars problem "Playing with digits"."
 datePublished: Fri Mar 10 2023 00:58:17 GMT+0000 (Coordinated Universal Time)
 cuid: clf1tx149000209mj4jfeglt0
-slug: 6kyu-playing-with-digits
+slug: playing-with-digits
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678409545736/ce94f56c-8809-44da-903e-955ca6275af6.webp
 tags: codewars, 6kyu
 
