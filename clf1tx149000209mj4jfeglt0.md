@@ -43,7 +43,7 @@ dig_pow(46288, 3) should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 236068
 
 ---
 
-## My solution method
+## My solution
 
 ```typescript
 export class G964 {
