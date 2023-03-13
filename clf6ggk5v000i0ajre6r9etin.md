@@ -25,7 +25,7 @@ spinWords( "This is another test" )=> returns "This is rehtona test"
 
 ---
 
-## My solution method
+## My solution
 
 ```typescript
 export function spinWords(words: string): string {
@@ -37,3 +37,5 @@ export function spinWords(words: string): string {
   }).join(' ')
 }
 ```
+
+Please check this problem at this [Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/typescript)!
